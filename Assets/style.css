@@ -1,0 +1,8 @@
+<!--Main Image for page -->
+
+body {
+    background-image: '../homework2/assets/images/green-background.jpg';
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
